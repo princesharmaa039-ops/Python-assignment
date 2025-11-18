@@ -1,0 +1,10 @@
+STUDENT PROFILE
+--------------------------------------------------
+Name: prince
+Roll No: 2501060169
+Course: BCA
+University: K.R MANGLAM UNIVERSITY
+City: Palwal
+Age: 19
+Hobby: coding
+--------------------------------------------------
